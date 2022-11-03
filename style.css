@@ -54,4 +54,58 @@ body {
     font-weight: bold;
     text-decoration: underline;
   }
+
+  .main-form{
+    display: inline-block;
+    margin: 0 auto;
+    width: 400px;
+  
+  }
+
+  .main-input {
+  
+    text-align: start;
+
+
+  }
+
+  .main-input input{
+    float: right;
+    height: 22px;
+  }
+  
+  .main-input select {
+    margin-left: 20px;
+    height: 34px;
+    border-radius: 5px;
+    border: 1px solid black;
+  }
+.main-input-yes-no {
+  float: left;
+ 
+    margin-left: 40px;
+    width: 380px;
+  margin-bottom: 10px;
+  display: inline-flex
+
+}
+
+  .submit {
+    margin: 20px;
+    text-align: center;
+    width: 120px;
+    height: 36px;
+    background-color: coral;
+    color: white;
+    border: none;
+    cursor: pointer;
+    
+  }
+  .submit:hover {
+    background-color: rgb(255, 199, 64);
+  }
+
+
+
+
   
