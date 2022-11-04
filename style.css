@@ -105,11 +105,11 @@ body {
   @media only screen and (max-width: 1048px) {
     .main-form {
       font-size: 18px;
-      width: 600px;
+      width: 480px;
       height: 30px;
     }
     .main-input input {
-      width: 300px;
+      width: 200px;
       height: 25px;
     }
     #main {
